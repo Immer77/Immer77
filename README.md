@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Immer77
 - 👀 I’m interested in ... Scripting, Network, Servers.
-- 🌱 I’m currently learning ... Java, Python, C#m, CCNA, PENTESTING, in general Data science topics
+- 🌱 I’m currently learning ... Java, Python, C#, CCNA, PENTESTING, in general Data science topics
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 

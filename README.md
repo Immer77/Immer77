@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Immer77
 - 👀 I’m interested in ... Programming, Scripting, Network, Servers.
-- 🌱 I’m currently learning ... Java, Python, C#, CCNA, PENTESTING, in general Data science topics
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning ... Java, Python, C#, PHP, Javascript, CSS, Html, CCNA, PENTESTING, 
+- 💞️ I’m looking to collaborate on Any good projects 
 
 <!---
 Immer77/Immer77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Immer77
 - 👀 I’m interested in ... Programming, Scripting, Network, Servers.
-- 🌱 I’m currently learning ... Java, Python Machine Learning, C#, Typescript, Javascript, CSS, Html, PENTESTING, 
+- 🌱 I’m currently learning ... Python Machine Learning, C# PENTESTING, Apache Kafka
 - 💞️ I’m looking to collaborate on Any good projects 
 
 <!---

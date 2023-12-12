@@ -20,8 +20,6 @@ I'm a passionate technologist with a keen interest in various aspects of program
 #### 💞️ Looking to Collaborate
 I'm open to collaborating on innovative projects that challenge my skills and help me grow. Particularly interested in projects that involve:
 - Advanced programming concepts
-- Scripting and automation
-- Network and server optimization
 - Implementing and learning new technologies
 
 #### 📫 How to Reach Me

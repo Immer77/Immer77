@@ -6,8 +6,8 @@
 I'm a passionate technologist with a keen interest in various aspects of programming and system architecture. My journey has taken me through a diverse set of skills and I'm always eager to explore and learn more.
 
 #### 💻 Technical Skills
-- **Languages:** Java, C#, Python, JavaScript, TypeScript, PowerShell
-- **Frameworks & Technologies:** Solid (currently learning), Docker (currently learning)
+- **Languages:** Java, C#, Python, JavaScript, TypeScript, PowerShell, Bash
+- **Frameworks & Technologies:**  Docker (currently learning), Linux, Kubernetes (Currently Learning)
 - **Other Skills:** Network Management, Server Administration
 
 #### 🌱 Currently Learning

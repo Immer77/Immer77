@@ -3,7 +3,7 @@
 ### 👋 Hi there, I'm @Immer77!
 
 #### About Me
-I'm a passionate technologist with a keen interest in various aspects of programming and system architecture. My journey has taken me through a diverse set of skills and I'm always eager to explore and learn more.
+I'm a passionate technologist with a keen interest in various aspects of programming and software architecture. My journey has taken me through a diverse set of skills and I'm always eager to explore and learn more.
 
 #### 💻 Technical Skills
 - **Languages:** Java, C#, Python, JavaScript, TypeScript, PowerShell, Bash
